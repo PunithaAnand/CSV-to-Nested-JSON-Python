@@ -1,0 +1,12 @@
+JobID,JobDate,JobTitle,Division,State,DetailedSkill,SkillGroup,SkillMasterGroup
+525235235,1/01/2018,Auditor,,NSW,Audit Planning,Auditing,Finance
+525235235,1/01/2018,Financial Analyst,Financial and Insurance Services,NSW,Credit Analysis,Risk Management,Business
+525235235,1/01/2018,Financial Analyst,Financial and Insurance Services,NSW,Business Operations,Business Process and Analysis,Business
+521285899,4/01/2018,Auditor,Financial and Insurance Services,NSW,Audit Engagements,Auditing,Finance
+521257717,5/01/2018,Auditor,,NSW,Business Operations,Business Process and Analysis,Business
+521257717,5/01/2018,Auditor,,NSW,Internal Auditing,Auditing,Finance
+521362625,7/01/2018,Management Accountant,,VIC,Account Reconciliation,General Accounting,Finance
+521362625,7/01/2018,Management Accountant,,VIC,Accounting,General Accounting,Finance
+521362625,7/01/2018,Management Accountant,,VIC,Budgeting,Budget Management,Finance
+521362625,7/01/2018,Management Accountant,,VIC,Corporate Finance,Corporate Accounting,Finance
+681362625,11/01/2018,Management Accountant,,VIC,Financial Statements,Financial Reporting,Finance
